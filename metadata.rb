@@ -5,5 +5,6 @@ license          'All rights reserved'
 description      'Installs/Configures deploy_test'
 long_description 'Installs/Configures deploy_test'
 
-version          '0.1.0'
+version          '0.1.1'
 
+depends          'git', '~> 4.3.4'
